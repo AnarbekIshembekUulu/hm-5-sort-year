@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hm-5-sort-year/static/css/main.e8339938.css",
+    "main.js": "/hm-5-sort-year/static/js/main.6c6058d4.js",
+    "index.html": "/hm-5-sort-year/index.html",
+    "main.e8339938.css.map": "/hm-5-sort-year/static/css/main.e8339938.css.map",
+    "main.6c6058d4.js.map": "/hm-5-sort-year/static/js/main.6c6058d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8339938.css",
+    "static/js/main.6c6058d4.js"
+  ]
+}
